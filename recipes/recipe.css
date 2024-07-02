@@ -7,3 +7,12 @@
     padding: 0;
     font-family: 'Andika','Inter', 'Times New Roman', Times, serif;
 }
+
+.recipe-title{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.recipe-subTitle{
+    font-style: italic;
+}
